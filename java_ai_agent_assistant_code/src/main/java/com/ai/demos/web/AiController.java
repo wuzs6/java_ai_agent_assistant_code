@@ -9,6 +9,8 @@ public class AiController {
     @GetMapping("/aichat")
     public String aiChat(){
 
+
+        String agent=bemore;
         return "AI Agent Running";
     }
 }
