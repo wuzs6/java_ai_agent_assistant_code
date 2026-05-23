@@ -17,7 +17,7 @@ Planned integrations include:
 - Enterprise knowledge systems
 - Automated backend development workflows
 - 
-# Java AI Agent Assistant
+Java AI Agent Assistant
 
 An AI-powered backend assistant platform for coding and workflow automation.
 
